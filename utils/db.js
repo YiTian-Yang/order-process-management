@@ -5,7 +5,7 @@ const pool = mysql.createPool({
   port: 3306,
   database: 'ordermanagement',
   user: 'root',
-  password: '980904yyt'
+  password: 'xxxxxxxxxxxxxx'
 })
 const query = function(sql, values) {
   // 返回一个 Promise
